@@ -2,7 +2,15 @@
 
 #show: checklist
 
-#set text(18pt)
+#set text(
+  font: "Libertinus Serif",
+  size: 17pt,
+)
+
+#set page(
+  paper: "a5",
+  margin: 15mm,
+)
 
 = Fear and Loathing Packing List
 
