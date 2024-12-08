@@ -9,7 +9,7 @@
 
 #set page(
   paper: "a5",
-  margin: 15mm,
+  margin: (x: 15mm, bottom: 15mm, top: 30mm),
 )
 
 = Fear and Loathing Packing List
